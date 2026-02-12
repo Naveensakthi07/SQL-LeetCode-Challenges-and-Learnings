@@ -1,60 +1,57 @@
-🗄 SQL LeetCode Challenges & Learnings
+# 🗄 SQL LeetCode Challenges & Learnings
 
-This repository contains SQL solutions to a variety of LeetCode-style challenges and practice problems designed to improve query writing, logical thinking, and data analysis skills.
+This repository contains SQL solutions to a variety of LeetCode-style challenges and interview-oriented practice problems designed to strengthen SQL query writing, logical thinking, and data analysis skills.
 
-The problems cover multiple difficulty levels and simulate real-world business use cases such as customer analysis, sales reporting, ranking, and trend identification.
+The problems simulate real-world business scenarios such as customer analytics, sales reporting, ranking, and trend identification.
 
-🔹 Topics Covered
+---
 
-SELECT, WHERE, ORDER BY
+## 🔹 Topics Covered
 
-GROUP BY & HAVING
+- SELECT, WHERE, ORDER BY  
+- GROUP BY & HAVING  
+- INNER JOIN, LEFT JOIN, RIGHT JOIN  
+- Subqueries  
+- Common Table Expressions (CTEs)  
+- Window Functions (ROW_NUMBER, RANK, DENSE_RANK)  
+- Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)  
+- Conditional Logic (CASE WHEN)
 
-INNER JOIN, LEFT JOIN, RIGHT JOIN
+---
 
-Subqueries
+## 📁 File Structure
 
-Common Table Expressions (CTEs)
+- `SQL_Leetcode_Challenges_and_Learnings.sql`  
+  Contains SQL problem statements (as comments) and corresponding solutions.
 
-Window Functions (ROW_NUMBER, RANK, DENSE_RANK)
+---
 
-Aggregate Functions (SUM, AVG, COUNT, MIN, MAX)
+## 🎯 Learning Objectives
 
-Conditional Logic (CASE WHEN)
+- Strengthen SQL fundamentals  
+- Improve logical query construction  
+- Practice solving interview-style SQL problems  
+- Understand how to analyze structured datasets  
 
-📁 File Structure
+---
 
-SQL_Leetcode_Challenges_and_Learnings.sql
-Contains all problem statements (as comments) and corresponding SQL solutions.
+## 🛠 Tools Used
 
-🎯 Learning Objectives
+- MySQL / PostgreSQL (ANSI SQL)  
+- Any SQL IDE or online SQL editor  
 
-Strengthen SQL fundamentals
+---
 
-Improve logical query construction
+## 💡 Skills Demonstrated
 
-Practice solving interview-style SQL problems
+- Data Retrieval  
+- Data Aggregation  
+- Data Filtering  
+- Joins & Relationships  
+- Analytical Query Writing  
 
-Understand how to analyze structured datasets
+---
 
-🛠 Tools Used
-
-MySQL / PostgreSQL (ANSI SQL)
-
-Any SQL IDE or online SQL editor
-
-💡 Skills Demonstrated
-
-Data Retrieval
-
-Data Aggregation
-
-Data Filtering
-
-Joins & Relationships
-
-Analytical Query Writing
-
-📌 Purpose
+## 📌 Purpose
 
 To build a strong foundation in SQL for data analytics roles and prepare for technical interviews involving SQL-based problem solving.
